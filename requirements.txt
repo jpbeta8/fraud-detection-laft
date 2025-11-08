@@ -1,0 +1,16 @@
+# --- CORE LIBRARIES ---
+pandas
+numpy
+scikit-learn
+xgboost
+imblearn
+matplotlib
+seaborn
+plotly
+
+# --- DASHBOARD (web app) ---
+dash
+dash-bootstrap-components
+
+# --- UTILITIES ---
+gunicorn
